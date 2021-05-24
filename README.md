@@ -18,5 +18,7 @@ If this port-no 3000 is in already in use, update the port-no in .env.developmen
 If the API application is not using port 8080, update the URL with the coorect port-no.\
 
 
+### `npm test --watchAll=false`
+Runs all tests
 
 
