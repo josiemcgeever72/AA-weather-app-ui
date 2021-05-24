@@ -1,6 +1,7 @@
 # AA-weather-app-api
 
 This React project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Build using node version (v12.21.0) & npm version (7.6.2)
 
 ## Available Scripts
 
